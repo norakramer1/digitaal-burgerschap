@@ -25,6 +25,7 @@ fetch(url, config)
     //console.log(data);
     render(data);
   })
+  
   .catch(err => {
     console.log(err);
   });
@@ -32,31 +33,49 @@ fetch(url, config)
 // render data
 function render(data) {
   const results = data.results;
-
   console.dir(results);
-  results.forEach((item, i) => {
+
+let dates = results.map(element => {
+  return {
+    title: element.titles,
+    text: element.custom[0].text,
+    summaries: element.summaries,
+    img: element.coverimages
+    // username: element.username.toLowerCase()
+  }
+ 
+})
+ console.log(dates);
+  dates.forEach((item, i) => {
     const html = `
             <li>
-              <h2>${item.titles[0]}</h2>
-              <p>${
-                item.custom[0].text.slice(-20, -10) + ' ' + item.custom[0].text.slice(-29, -24) + ' - ' + item.custom[0].text.slice(-9, -4)
-              }</p>     
-              <p>${item.summaries ? item.summaries[0] : 'Geen samenvatting'}</p>    
+              <h2>${item.title}</h2>
+              <p>${item.text}</p>     
+              <p>${item.summaries ? item.summaries : 'Geen samenvatting'}</p>    
                      
-              <img src="${item.coverimages}">
+              <img src="${item.img}">
             </li>
           `;
     ul.insertAdjacentHTML('beforeend', html);
+    // const p = document.querySelector('main ul.results li p');
+    // console.log(p);
   });
 }
+
+
+
+
 
 // function logData(data) {
 //   const p = document.querySelector('main ul.results li p');
 //   console.log(p);
 // }
 
-const p = document.querySelector('main ul.results li p');
-console.log(p);
 
+// .slice(-20, -10) + ' ' + item.custom[0].text.slice(-29, -24) + ' - ' + item.custom[0].text.slice(-9, -4)
 
 //  <p>${item.custom.text ? item.custom.text[0] : 'Geen Informatie'}</p> 
+
+// map over array and change text: to my own date with increment++
+
+		// Map maakt een nieuwe array. en die "returned" die naar de variabel die ervoor staat.
