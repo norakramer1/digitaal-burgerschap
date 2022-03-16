@@ -1,20 +1,108 @@
+@font-face {
+
+  font-family: "Avenir";
+
+  src: url("../fonts/Avenir.eot?#iefix") format("embedded-opentype"),
+
+    url("../fonts/Avenir.woff") format("woff"),
+
+    url("../fonts/Avenir.ttf") format("truetype"),
+
+    url("../fonts/Avenir.svg#Avenir") format("svg");
+
+}
+
+
 * {
   box-sizing: border-box;
 }
 html {
   margin: 0;
   padding: 0;
-  font: 100% / 200% 'Trebuchet MS';
+  font-family: "Avenir", Helvetica, sans-serif;
 }
+
 body {
   font-size: 1em;
   padding: 0;
   margin: 0;
-  color: pink;
-  background-color: #000;
-  max-width: 50em;
+  color: rgb(0, 0, 0);
   margin: 0 auto;
 }
-main {
-  padding: 2rem;
+
+h2 {
+  font-size: 1em;
+}
+
+main div {
+  display: flex;
+align-items: center;
+  flex-direction: column;
+}
+
+div img {
+  width: 10%;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul:nth-of-type(-n+2) {
+  align-items: center;
+  padding-left: 0;
+}
+
+/* ul:nth-of-type(n-2) li:last-of-type {
+  padding-left: 5%;
+} */
+
+ul:nth-of-type(-n+2) li:nth-of-type(1) {
+  width: 20vw;
+  height: 25vh;
+  background-color: red;
+  align-items: center;
+  }
+
+ul:nth-of-type(-n+2) li h3 {
+font-size: 300%;
+font-weight: bold;
+margin-left: -10%;
+margin-bottom: 0;
+}
+
+ul:nth-of-type(-n+2) li p {
+  font-size: 110%;
+  padding-left: 5%;
+  margin: 0 20% 0 -10%;
+  
+  }
+
+
+/* second list item of the first 2 uls */
+
+ul li img {
+  overflow: hidden;
+  object-fit: cover;
+}
+
+ul:nth-of-type(3) {
+  justify-content: space-around;
+  max-width: 100%;
+}
+
+ul:last-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+   padding-right: 2%; 
+}
+
+ul:last-of-type li { 
+max-width: 350px; 
+
 }

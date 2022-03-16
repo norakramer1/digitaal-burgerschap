@@ -1,0 +1,1667 @@
+[
+    {
+        "id": "|oba-catalogus|376584",
+        "frabl": {
+            "key1": "tolkien lexicon",
+            "key2": "jeatyler",
+            "cnt": "2",
+            "value": "41336EE837F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-E-A-Tyler/Tolkien-lexicon/Boek/?itemid=%7coba-catalogus%7c376584",
+        "titles": [
+            "Tolkien lexicon",
+            "Tolkien lexicon / J.E. Tyler ; vert. [uit het Engels] door Max Schuchart ; met ill. van Kevin Reilly"
+        ],
+        "isbn": [
+            "9027479844"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=241964822&isbn=9789027479846&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/241964822&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.E.A. Tyler",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.E.A. Tyler",
+                "firstname": "J.E.A.",
+                "lastname": "Tyler",
+                "creatortype": "person"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2002",
+        "publisher": [
+            "Het Spectrum, Utrecht, cop. 2002"
+        ],
+        "subject-topical": [
+            "Tolkien, J.R.R",
+            "!078077745!Tolkien"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Verklarend overzicht van begrippen en namen uit 'In de ban van de ring' en de daarmee samenhangende boeken van J.R.R. Tolkien (1892-1973)."
+        ],
+        "description": [
+            "664 p",
+            "664 p: ill ; 18 cm"
+        ],
+        "note": "Oorspr. Nederlandse uitg.: Utrecht [etc.] : Het Spectrum, 1980. - (Prisma-boeken ; 1912)",
+        "undup": {
+            "alsoAvailableAsCount": "2",
+            "items": [
+                {
+                    "key1": "tolkien lexicon",
+                    "key2": "jeatyler",
+                    "cnt": "2",
+                    "value": "41336EE837F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "enge 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1067273",
+        "frabl": {
+            "key1": "the new tolkien companion",
+            "key2": "jeatyler",
+            "cnt": "1",
+            "value": "99654FD21F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-E-A-Tyler/Tolkien-lexicon/Boek/?itemid=%7coba-catalogus%7c1067273",
+        "titles": [
+            "Tolkien lexicon",
+            "Tolkien lexicon / J.E.A. Tyler"
+        ],
+        "isbn": [
+            "9789000313914"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=343554941&isbn=9789000313914&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/343554941&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.E.A. Tyler",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.E.A. Tyler",
+                "firstname": "J.E.A.",
+                "lastname": "Tyler",
+                "creatortype": "person"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2012",
+        "publisher": [
+            "Winkler Prins, Houten, 2012"
+        ],
+        "subject-topical": [
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Verklarend overzicht van begrippen en namen uit 'In de ban van de ring' en de daarmee samenhangende boeken van J.R.R. Tolkien (1892-1973)."
+        ],
+        "description": [
+            "541 p",
+            "541 p: ill ; 24 cm"
+        ],
+        "note": "Vert. van: The complete Tolkien companion. - 3e herz. dr. - London : Macmillan, cop. 2002. - Oorspr. titel: The new Tolkien companion. - London : Pan books [etc.], 1976",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "the new tolkien companion",
+                    "key2": "jeatyler",
+                    "cnt": "1",
+                    "value": "99654FD21F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|358740",
+        "frabl": {
+            "key1": "the tolkien family album",
+            "key2": "john tolkien",
+            "cnt": "1",
+            "value": "40E3291137F360A7"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/John-Tolkien/The-Tolkien-family-album/Boek/?itemid=%7coba-catalogus%7c358740",
+        "titles": [
+            "The Tolkien family album",
+            "The Tolkien family album / John & Priscilla Tolkien"
+        ],
+        "isbn": [
+            "0261102397 (geb.)"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=089669304&isbn=9780261102392&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/089669304&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "John Tolkien",
+            "Priscilla Tolkien",
+            "J.R.R. Tolkien"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "John Tolkien",
+                "firstname": "John",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Priscilla Tolkien",
+                "lastname": "Priscilla Tolkien",
+                "creatortype": "organization"
+            },
+            {
+                "full": "J.R.R. Tolkien",
+                "lastname": "J.R.R. Tolkien",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1992",
+        "publisher": [
+            "HarperCollins, London, 1992"
+        ],
+        "subject-topical": [
+            "!078077745!Tolkien",
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Engels"
+        ],
+        "summaries": [
+            "Fotoboek over de Britse schrijver J.R.R. Tokien (1892-1973)."
+        ],
+        "description": [
+            "90 p",
+            "90 p: ill ; 28 cm"
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "the tolkien family album",
+                    "key2": "john tolkien",
+                    "cnt": "1",
+                    "value": "40E3291137F360A7"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|396462",
+        "frabl": {
+            "key1": "een tolkien bestiarium",
+            "key2": "david day",
+            "cnt": "1",
+            "value": "3B81D668CCF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/David-Day/Een-Tolkien-bestiarium/Boek/?itemid=%7coba-catalogus%7c396462",
+        "titles": [
+            "Een Tolkien bestiarium",
+            "Een Tolkien bestiarium / David Day ; geïll. door Ian Miller ... [et al.] ; [kunstred. Debra Zuckerman ; red. Joanna Chisholm ; vert. en bew. uit het Engels Pon Ruiter]"
+        ],
+        "isbn": [
+            "9032897411 (geb.)"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=801662990&isbn=9789032897413&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/801662990&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "David Day",
+            "Ian Miller",
+            "Debra Zuckerman",
+            "Joanna Chisholm",
+            "Pon Ruiter",
+            "J.R.R. Tolkien"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "David Day",
+                "firstname": "David",
+                "lastname": "Day",
+                "creatortype": "person"
+            },
+            {
+                "full": "Ian Miller",
+                "lastname": "Ian Miller",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Debra Zuckerman",
+                "lastname": "Debra Zuckerman",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Joanna Chisholm",
+                "lastname": "Joanna Chisholm",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Pon Ruiter",
+                "lastname": "Pon Ruiter",
+                "creatortype": "organization"
+            },
+            {
+                "full": "J.R.R. Tolkien",
+                "lastname": "J.R.R. Tolkien",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1979",
+        "publisher": [
+            "Rostrum, Haarlem, cop. 1979"
+        ],
+        "subject-topical": [
+            "Romans",
+            "Tolkien",
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Planten, dieren en mensen uit de werken van de Engelse fantasyschrijver J.R.R. Tolkien nader geportretteerd in woord en beeld."
+        ],
+        "description": [
+            "288 p",
+            "288 p: ill ; 28 cm"
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "een tolkien bestiarium",
+                    "key2": "david day",
+                    "cnt": "1",
+                    "value": "3B81D668CCF360A0"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|357654",
+        "frabl": {
+            "key1": "brieven",
+            "key2": "jrrtolkien",
+            "cnt": "2",
+            "value": "661EDECBB1F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/Brieven/Boek/?itemid=%7coba-catalogus%7c357654",
+        "titles": [
+            "Brieven",
+            "Brieven / Tolkien ; samengest. door Humphrey Carpenter en Christopher Tolkien ; vert. [uit het Engels] door Max Schuchart"
+        ],
+        "isbn": [
+            "9027471134 (geb.) :"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=822689332&isbn=9789027471130&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/822689332&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Humphrey Carpenter",
+            "Christopher Tolkien",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Humphrey Carpenter",
+                "lastname": "Humphrey Carpenter",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1982",
+        "publisher": [
+            "Spectrum, Utrecht [etc.], 1982"
+        ],
+        "subject-topical": [
+            "Brieven",
+            "Tolkien",
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "description": [
+            "588 p",
+            "588 p ; 20 cm"
+        ],
+        "note": "Met reg",
+        "undup": {
+            "alsoAvailableAsCount": "2",
+            "items": [
+                {
+                    "key1": "brieven",
+                    "key2": "jrrtolkien",
+                    "cnt": "2",
+                    "value": "661EDECBB1F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|376608",
+        "frabl": {
+            "key1": "the tolkien companion",
+            "key2": "jeatyler",
+            "cnt": "2",
+            "value": "50AC7DC8D9F360A7"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-E-A-Tyler/The-Tolkien-companion/Boek/?itemid=%7coba-catalogus%7c376608",
+        "titles": [
+            "The Tolkien companion",
+            "The Tolkien companion / [compiled by] J.E.A. Tyler ; edited by S.A. Tyler ; illustrated by Kevin Reilly"
+        ],
+        "isbn": [
+            "0333196333 :"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=760214611&isbn=9780333196335&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/760214611&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.E.A. Tyler",
+            "S.A. Tyler",
+            "Kevin Reilly"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.E.A. Tyler",
+                "firstname": "J.E.A.",
+                "lastname": "Tyler",
+                "creatortype": "person"
+            },
+            {
+                "full": "S.A. Tyler",
+                "lastname": "S.A. Tyler",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Kevin Reilly",
+                "lastname": "Kevin Reilly",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1976",
+        "publisher": [
+            "Macmillan, London [etc.], 1976"
+        ],
+        "subject-topical": [
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Engels"
+        ],
+        "description": [
+            "530 p",
+            "530 p: ill., geneal table, maps ; 23 cm"
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "2",
+            "items": [
+                {
+                    "key1": "the tolkien companion",
+                    "key2": "jeatyler",
+                    "cnt": "2",
+                    "value": "50AC7DC8D9F360A7"
+                }
+            ]
+        },
+        "siso": [
+            "enge 856.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|662823",
+        "frabl": {
+            "key1": "de kinderen van hurin",
+            "key2": "jrrtolkien",
+            "cnt": "2",
+            "value": "3E4AFC0844F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-kinderen-van-Hurin/Boek/?itemid=%7coba-catalogus%7c662823",
+        "titles": [
+            "De kinderen van Húrin",
+            "De kinderen van Húrin / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789022547649",
+            "=9789022549513"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=302261621&isbn=9789022547649&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/302261621&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Peter Cuijpers",
+            "Christopher Tolkien"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Peter Cuijpers",
+                "lastname": "Peter Cuijpers",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2007",
+        "publisher": [
+            "Mynx, Amsterdam, 2007"
+        ],
+        "genres": [
+            "Sciencefiction"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Túrin Turambar, een ridder die huis en haard moest ontvluchten en door een Elfenkoning werd geadopteerd, gaat als verdoemde held met een magisch zwaard zijn noodlot tegemoet."
+        ],
+        "description": [
+            "317 p., [8] p. pl., [1] vouwkrt",
+            "317 p., [8] p. pl., [1] vouwkrt: ill ; 23 cm"
+        ],
+        "note": "Vert. van: Narn i Chîn Húrin = The tale of the children of Húrin. - Cop. 2007",
+        "undup": {
+            "alsoAvailableAsCount": "2",
+            "items": [
+                {
+                    "key1": "de kinderen van hurin",
+                    "key2": "jrrtolkien",
+                    "cnt": "2",
+                    "value": "3E4AFC0844F360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|1064586",
+        "frabl": {
+            "key1": "de reisgenoten",
+            "key2": "jrrtolkien",
+            "cnt": "9",
+            "value": "2466446BA8F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-reisgenoten/Boek/?itemid=%7coba-catalogus%7c1064586",
+        "titles": [
+            "De reisgenoten",
+            "De reisgenoten / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789022564370"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=343556375&isbn=9789022564370&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/343556375&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2012",
+        "publisher": [
+            "Boekerij, Amsterdam, 2012"
+        ],
+        "subject-topical": [
+            "Goed en kwaad"
+        ],
+        "genres": [
+            "Sciencefiction"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Eerste deel van een epos waarin mythische, aan de mens verwante wezens, met boze geesten strijden om het bezit van de ring die beslist over heil en de ondergang van de wereld.. - De hobbit Frodo onderneemt met een aantal metgezellen een lange en gevaarlijke reis om de ring te vernietigen die beslist over heil of ondergang van de wereld. Vanaf ca. 15 jaar."
+        ],
+        "description": [
+            "491 p",
+            "491 p: krt ; 22 cm"
+        ],
+        "note": "Vert. van: The fellowship of the ring. - 2nd rev. ed. - London [etc.] : Allen & Unwin, 1966. - (The lord of the rings ; 1). - Oorspr. uitg.: 1954",
+        "series": [
+            {
+                "text": "In de ban van de ring"
+            }
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "8",
+            "items": [
+                {
+                    "key1": "de reisgenoten",
+                    "key2": "jrrtolkien",
+                    "cnt": "9",
+                    "value": "2466446BA8F360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|357657",
+        "frabl": {
+            "key1": "brieven van de kerstman",
+            "key2": "jrrtolkien",
+            "cnt": "2",
+            "value": "5DB34397DF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/Brieven-van-de-Kerstman/Boek/?itemid=%7coba-catalogus%7c357657",
+        "titles": [
+            "Brieven van de Kerstman",
+            "Brieven van de Kerstman / J.R.R. Tolkien ; samengest. door Baillie Tolkien ; [vert. uit het Engels: Max Schuchart ... et al.]"
+        ],
+        "isbn": [
+            "9022543587 (geb.)"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=288997344&isbn=9789022543580&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/288997344&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Baillie Tolkien",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Baillie Tolkien",
+                "lastname": "Baillie Tolkien",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2005",
+        "publisher": [
+            "Uitgeverij M, Amsterdam, 2005"
+        ],
+        "subject-topical": [
+            "Kerstmis"
+        ],
+        "genres": [
+            "Kerst",
+            "Verhalenbundel"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Gefingeerde en geïllustreerde brieven vol vreemde verhalen van de Kerstman over elfen, aard- en sneeuwmannen, poolberen en wraakzuchtige goblins die de auteur rond Kerstmis naar zijn vier kinderen stuurde. Vanaf ca. 12 jaar.Gefingeerde en geïllustreerde brieven vol vreemde verhalen van de Kerstman over elfen, aard- en sneeuwmannen, poolberen en wraakzuchtige goblins die de auteur rond Kerstmis naar zijn vier kinderen stuurde."
+        ],
+        "description": [
+            "111 p",
+            "111 p: ill ; 26 cm"
+        ],
+        "note": "Oorspr. Nederlandse uitg.: Utrecht [etc.] : Het Spectrum, 1976",
+        "undup": {
+            "alsoAvailableAsCount": "2",
+            "items": [
+                {
+                    "key1": "brieven van de kerstman",
+                    "key2": "jrrtolkien",
+                    "cnt": "2",
+                    "value": "5DB34397DF360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|358471",
+        "frabl": {
+            "key1": "pictures by j r r tolkien",
+            "key2": "jrrtolkien",
+            "cnt": "1",
+            "value": "49F2F79AF4F360A7"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/Pictures-by-J-R-R-Tolkien/Boek/?itemid=%7coba-catalogus%7c358471",
+        "titles": [
+            "Pictures by J. R. R. Tolkien",
+            "Pictures by J. R. R. Tolkien / forew. and notes by Christopher Tolkien"
+        ],
+        "isbn": [
+            "0047410035 (geb.)"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=860119475&isbn=9780047410031&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/860119475&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1979",
+        "publisher": [
+            "Allen & Unwin, London [etc.], 1979"
+        ],
+        "subject-topical": [
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Engels"
+        ],
+        "summaries": [
+            "Schilderijen, oorspronkelijk vervaardigd door de Engelse schrijver voor verschillende kalenders, en geïnspireerd door motieven uit zijn romancyclus The lord of the rings"
+        ],
+        "description": [
+            "[108] p",
+            "[108] p: ill., portr ; 32 cm"
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "pictures by j r r tolkien",
+                    "key2": "jrrtolkien",
+                    "cnt": "1",
+                    "value": "49F2F79AF4F360A7"
+                }
+            ]
+        },
+        "siso": [
+            "eu-enge 737.8"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|358723",
+        "frabl": {
+            "key1": "the monsters and the critics and other essays",
+            "key2": "jrrtolkien",
+            "cnt": "1",
+            "value": "774DF9E89AF360A7"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/The-monsters-and-the-critics-and-other-essays/Boek/?itemid=%7coba-catalogus%7c358723",
+        "titles": [
+            "The monsters and the critics and other essays",
+            "The monsters and the critics and other essays / J.R.R. Tolkien ; ed. by Christopher Tolkien"
+        ],
+        "isbn": [
+            "0048090190 :"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=823065820&isbn=9780048090195&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/823065820&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1983",
+        "publisher": [
+            "Allen & Unwin, London [etc.], 1983"
+        ],
+        "subject-topical": [
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Engels"
+        ],
+        "summaries": [
+            "Lezingen over taal- en letterkundige onderwerpen"
+        ],
+        "description": [
+            "240 p",
+            "240 p ; 23 cm"
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "the monsters and the critics and other essays",
+                    "key2": "jrrtolkien",
+                    "cnt": "1",
+                    "value": "774DF9E89AF360A7"
+                }
+            ]
+        },
+        "siso": [
+            "en 850.3"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1100628",
+        "frabl": {
+            "key1": "de hobbit",
+            "key2": "jrrtolkien",
+            "cnt": "15",
+            "value": "70E55EBE5AF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-hobbit/Boek/?itemid=%7coba-catalogus%7c1100628",
+        "titles": [
+            "De hobbit",
+            "De hobbit / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789022567722",
+            "=9789460231186"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=355394073&isbn=9789022567722&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/355394073&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2013",
+        "publisher": [
+            "Boekerij, Amsterdam, 2013"
+        ],
+        "subject-topical": [
+            "Sprookjesfiguren",
+            "Queesten"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Hobbit Bilbo Balings wordt door een tovenaar uitgezonden om een groep dwergen te leiden bij hun speurtocht naar de draak die de schatten van het dwergenvolk heeft geroofd.. - Hobbit Bilbo Balings wordt door tovenaar Gandalf uitgezonden om een groep dwergen te leiden bij hun speurtocht naar de draak Smaug, die de schatten van het dwergenvolk heeft geroofd. Vanaf ca. 13 jaar."
+        ],
+        "description": [
+            "253 pagina's",
+            "253 pagina's: illustraties, kaart ; 24 cm"
+        ],
+        "note": "Vertaling van: The hobbit. - London : Allen & Unwin, 1937",
+        "undup": {
+            "alsoAvailableAsCount": "13",
+            "items": [
+                {
+                    "key1": "de hobbit",
+                    "key2": "jrrtolkien",
+                    "cnt": "15",
+                    "value": "70E55EBE5AF360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|358301",
+        "frabl": {
+            "key1": "the letters of j r r tolkien",
+            "key2": "jrrtolkien",
+            "cnt": "1",
+            "value": "4D325341D8F360A7"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/The-letters-of-J-R-R-Tolkien/Boek/?itemid=%7coba-catalogus%7c358301",
+        "titles": [
+            "The letters of J. R. R. Tolkien",
+            "The letters of J. R. R. Tolkien / a sel. ed. by Humphrey Carpenter ; with the assistance of Christopher Tolkien"
+        ],
+        "isbn": [
+            "0261102656"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=153043989&isbn=9780261102651&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/153043989&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Humphrey Carpenter",
+            "Christopher Tolkien"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Humphrey Carpenter",
+                "lastname": "Humphrey Carpenter",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "1995",
+        "publisher": [
+            "HarperCollins, London, 1995"
+        ],
+        "subject-topical": [
+            "Brieven",
+            "Tolkien, J.R.R"
+        ],
+        "languages": [
+            "Engels"
+        ],
+        "summaries": [
+            "Keuze uit de brieven van de Engelse auteur (1892-1973) die een inzicht geven in zijn leef- en denkwereld."
+        ],
+        "description": [
+            "463 p",
+            "463 p: facs ; 20 cm"
+        ],
+        "note": "Oorspr. uitg.: London : Allen & Unwin, 1981",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "the letters of j r r tolkien",
+                    "key2": "jrrtolkien",
+                    "cnt": "1",
+                    "value": "4D325341D8F360A7"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1064588",
+        "frabl": {
+            "key1": "de terugkeer van de koning",
+            "key2": "jrrtolkien",
+            "cnt": "9",
+            "value": "73605E9270F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-terugkeer-van-de-koning/Boek/?itemid=%7coba-catalogus%7c1064588",
+        "titles": [
+            "De terugkeer van de koning",
+            "De terugkeer van de koning / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789022564363"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=343556367&isbn=9789022564363&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/343556367&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2012",
+        "publisher": [
+            "Boekerij, Amsterdam, 2012"
+        ],
+        "subject-topical": [
+            "Goed en kwaad"
+        ],
+        "genres": [
+            "Sciencefiction"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Derde deel van een epos waarin mythische, aan de mens verwante wezens met boze geesten strijden om het bezit van de ring die beslist over heil en ondergang van de wereld.. - De hobbit Frodo onderneemt met een aantal metgezellen een lange en gevaarlijke reis om de ring te vernietigen die beslist over heil of ondergang van de wereld. Vanaf ca. 15 jaar."
+        ],
+        "description": [
+            "360 p",
+            "360 p: krt ; 22 cm"
+        ],
+        "note": "Vert. van: The return of the king. - 2nd rev. ed. - London [etc.] : Allen & Unwin, 1966. - (The lord of the rings ; 3). - Oorspr. uitg.: 1955",
+        "series": [
+            {
+                "text": "In de ban van de ring"
+            }
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "7",
+            "items": [
+                {
+                    "key1": "de terugkeer van de koning",
+                    "key2": "jrrtolkien",
+                    "cnt": "9",
+                    "value": "73605E9270F360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|913865",
+        "frabl": {
+            "key1": "de legende van sigurd en gudrun",
+            "key2": "jrrtolkien",
+            "cnt": "2",
+            "value": "7C329D38B0F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-legende-van-Sigurd-en-Gudrun/Boek/?itemid=%7coba-catalogus%7c913865",
+        "titles": [
+            "De legende van Sigurd en Gudrún",
+            "De legende van Sigurd en Gudrún / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789089681416"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=320549690&isbn=9789089681416&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/320549690&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien",
+            "Piet Verhagen"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Piet Verhagen",
+                "lastname": "Piet Verhagen",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2009",
+        "publisher": [
+            "Mynx, Amsterdam, 2009"
+        ],
+        "subject-topical": [
+            "Meertalige boeken"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Twee epische gedichten uit de Oud-Noorse 'Edda' naar de Engelse bewerking van de schrijver J.R.R. Tolkien."
+        ],
+        "description": [
+            "378 p",
+            "378 p: ill ; 22 cm"
+        ],
+        "note": "Gebaseerd op fragmenten uit de Edda",
+        "undup": {
+            "alsoAvailableAsCount": "2",
+            "items": [
+                {
+                    "key1": "de legende van sigurd en gudrun",
+                    "key2": "jrrtolkien",
+                    "cnt": "2",
+                    "value": "7C329D38B0F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 875"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1064589",
+        "frabl": {
+            "key1": "de twee torens",
+            "key2": "jrrtolkien",
+            "cnt": "10",
+            "value": "46288D177DF360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-twee-torens/Boek/?itemid=%7coba-catalogus%7c1064589",
+        "titles": [
+            "De twee torens",
+            "De twee torens / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789022564356"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=343556359&isbn=9789022564356&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/343556359&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2012",
+        "publisher": [
+            "Boekerij, Amsterdam, 2012"
+        ],
+        "subject-topical": [
+            "Goed en kwaad"
+        ],
+        "genres": [
+            "Sciencefiction"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Tweede deel van een epos waarin mythische, aan de mens verwante wezens met boze geesten strijden om het bezit van de ring die beslist over heil en ondergang van de wereld.. - De hobbit Frodo onderneemt met een aantal metgezellen een lange en gevaarlijke reis om de ring te vernietigen die beslist over heil of ondergang van de wereld. Vanaf ca. 15 jaar."
+        ],
+        "description": [
+            "410 p",
+            "410 p: krt ; 22 cm"
+        ],
+        "note": "Vert. van: The two towers. - 2nd rev. ed. - London [etc.] : Allen & Unwin, 1966. - (The lord of the rings ; 2). - Oorspr. uitg.: 1954",
+        "series": [
+            {
+                "text": "In de ban van de ring"
+            }
+        ],
+        "undup": {
+            "alsoAvailableAsCount": "6",
+            "items": [
+                {
+                    "key1": "de twee torens",
+                    "key2": "jrrtolkien",
+                    "cnt": "10",
+                    "value": "46288D177DF360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|1058831",
+        "frabl": {
+            "key1": "de wereld van tolkien een inleiding tot de volkeren en plaatsen van midden aarde",
+            "key2": "gareth hanrahan",
+            "cnt": "1",
+            "value": "570C0AD2A2F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/Gareth-Hanrahan/De-wereld-van-Tolkien-een-inleiding-tot-de/Boek/?itemid=%7coba-catalogus%7c1058831",
+        "titles": [
+            "De wereld van Tolkien : een inleiding tot de volkeren en plaatsen van Midden-aarde",
+            "De wereld van Tolkien : een inleiding tot de volkeren en plaatsen van Midden-aarde / Gareth Hanrahan"
+        ],
+        "isbn": [
+            "9789002025778"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=351183698&isbn=9789002025778&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/351183698&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "Gareth Hanrahan",
+            "Peter Mckinstry"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "Gareth Hanrahan",
+                "firstname": "Gareth",
+                "lastname": "Hanrahan",
+                "creatortype": "person"
+            },
+            {
+                "full": "Peter Mckinstry",
+                "lastname": "Peter Mckinstry",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2012",
+        "publisher": [
+            "Standaard, Antwerpen, cop. 2012"
+        ],
+        "subject-topical": [
+            "Tolkien, J.R.R",
+            "Lord of the rings, The (boek)",
+            "Hobbit, The (boek)"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Reis door de wereld Midden-aarde, die Tolkien beschreef in zijn boeken De Hobbit en In de ban van de Ring. Ontmoet o.a. Hobbits, Orks en de tovenaar Gandalf. Oud aandoend boek met fantasierijke kleurenillustraties. Vanaf ca. 11 jaar."
+        ],
+        "description": [
+            "80 p",
+            "80 p: ill ; 31 cm"
+        ],
+        "note": "Vert. van: Tolkien's world. - London : Carlton Books, cop. 2012",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "de wereld van tolkien een inleiding tot de volkeren en plaatsen van midden aarde",
+                    "key2": "gareth hanrahan",
+                    "cnt": "1",
+                    "value": "570C0AD2A2F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "JEngels 855.6"
+        ]
+    },
+    {
+        "id": "|oba-catalogus|1174685",
+        "frabl": {
+            "key1": "beren en luthien de terugkeer naar midden aarde",
+            "key2": "jrrtolkien",
+            "cnt": "1",
+            "value": "6FB6678E42F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/Beren-en-Luthien-de-terugkeer-naar-Midden/Boek/?itemid=%7coba-catalogus%7c1174685",
+        "titles": [
+            "Beren en Lúthien : de terugkeer naar Midden-aarde",
+            "Beren en Lúthien : de terugkeer naar Midden-aarde / door J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "=9789022580912",
+            "=9789402309348"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=409609250&isbn=9789022580912&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/409609250&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien",
+            "Alan Lee",
+            "Niels van Eekelen"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Alan Lee",
+                "lastname": "Alan Lee",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Niels van Eekelen",
+                "lastname": "Niels van Eekelen",
+                "localized-type": "Vertaler",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2017",
+        "publisher": [
+            "Boekerij, [Amsterdam], [2017]"
+        ],
+        "genres": [
+            "Sciencefiction"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Drie versies van het verhaal over de liefde van de sterfelijke krijger Beren, voor Lúthien, de dochter van Elvenkoning Elu Thingol."
+        ],
+        "description": [
+            "278 pagina's, 9 ongenummerde bladen platen",
+            "278 pagina's, 9 ongenummerde bladen platen: illustraties ; 23 cm"
+        ],
+        "note": "Vertaling van: Beren and Lúthien. - Londen : HarperCollinsPublishers, 2017",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "beren en luthien de terugkeer naar midden aarde",
+                    "key2": "jrrtolkien",
+                    "cnt": "1",
+                    "value": "6FB6678E42F360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|1219261",
+        "frabl": {
+            "key1": "de val van gondolin",
+            "key2": "jrrtolkien",
+            "cnt": "1",
+            "value": "5967A2B3D1F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/De-val-van-Gondolin/Boek/?itemid=%7coba-catalogus%7c1219261",
+        "titles": [
+            "De val van Gondolin",
+            "De val van Gondolin / door J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "=9789022586280"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=420877509&isbn=9789022586280&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/420877509&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien",
+            "Alan Lee",
+            "Renée Vink",
+            "Max Schuchart"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "localized-type": "Auteur",
+                "creatortype": "person"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "localized-type": "Redacteur",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Alan Lee",
+                "lastname": "Alan Lee",
+                "localized-type": "Illustrator",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Renée Vink",
+                "lastname": "Renée Vink",
+                "localized-type": "Vertaler",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Max Schuchart",
+                "lastname": "Max Schuchart",
+                "localized-type": "Vertaler",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2019",
+        "publisher": [
+            "Boekerij, [Amsterdam], [2019]"
+        ],
+        "genres": [
+            "Sciencefiction"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Gondolin, de verborgen stad op Midden-Aarde, wordt ernstig bedreigd. De kwaadaardige Morgoth doet er alles aan om de stad te vinden, maar de god Ulmo stuurt de man Tuor eropuit om de stad te waarschuwen."
+        ],
+        "description": [
+            "286 pagina's, 8 ongenummerde bladen platen",
+            "286 pagina's, 8 ongenummerde bladen platen: illustraties ; 23 cm"
+        ],
+        "note": "Vertaling van: The fall of Gondolin. - London : HarperCollinsPublishers, 2018",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "de val van gondolin",
+                    "key2": "jrrtolkien",
+                    "cnt": "1",
+                    "value": "5967A2B3D1F360A0"
+                }
+            ]
+        }
+    },
+    {
+        "id": "|oba-catalogus|1090184",
+        "frabl": {
+            "key1": "arthurs val",
+            "key2": "jrrtolkien",
+            "cnt": "1",
+            "value": "1EFCF47BC3F360A0"
+        },
+        "detailLink": "http://zoeken.oba.nl/detail/J-R-R-Tolkien/Arthurs-val/Boek/?itemid=%7coba-catalogus%7c1090184",
+        "titles": [
+            "Arthurs val",
+            "Arthurs val / J.R.R. Tolkien"
+        ],
+        "isbn": [
+            "9789022566275",
+            "=9789460236891"
+        ],
+        "coverimages": [
+            "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=355393794&isbn=9789022566275&lid=&aut=&ti=&size=70",
+            "https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/355393794&token=c1322402"
+        ],
+        "formats": [
+            {
+                "text": "Boek",
+                "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000050"
+            }
+        ],
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien",
+            "Renée Vink",
+            "Thijs Porck"
+        ],
+        "authorsDetailed": [
+            {
+                "full": "J.R.R. Tolkien",
+                "firstname": "J.R.R.",
+                "lastname": "Tolkien",
+                "creatortype": "person"
+            },
+            {
+                "full": "Christopher Tolkien",
+                "lastname": "Christopher Tolkien",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Renée Vink",
+                "lastname": "Renée Vink",
+                "creatortype": "organization"
+            },
+            {
+                "full": "Thijs Porck",
+                "lastname": "Thijs Porck",
+                "creatortype": "organization"
+            }
+        ],
+        "year": "2013",
+        "publisher": [
+            "Boekerij, Amsterdam, cop. 2013"
+        ],
+        "subject-topical": [
+            "Meertalige boeken"
+        ],
+        "languages": [
+            "Nederlands",
+            "Engels"
+        ],
+        "summaries": [
+            "Tweetalige uitgave van het onvoltooid gebleven gedicht door de Britse letterkundige (1892-1973) over de laatste veldslag van koning Arthur."
+        ],
+        "description": [
+            "291 p",
+            "291 p: ill ; 22 cm"
+        ],
+        "note": "Vert. van: The fall of Arthur. - Cop. 2013",
+        "undup": {
+            "alsoAvailableAsCount": "0",
+            "items": [
+                {
+                    "key1": "arthurs val",
+                    "key2": "jrrtolkien",
+                    "cnt": "1",
+                    "value": "1EFCF47BC3F360A0"
+                }
+            ]
+        },
+        "siso": [
+            "Engels 875"
+        ]
+    }
+]
