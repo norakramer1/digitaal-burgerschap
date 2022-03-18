@@ -30,6 +30,11 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 350%;
+  margin-bottom: 0;
+}
+
 h2 {
   font-size: 1em;
 }
@@ -55,6 +60,7 @@ div ul.background {
   /* overflow: hidden; */
   justify-content: space-evenly;
   align-items: flex-start;
+  z-index: -1;
 
 }
 
@@ -130,8 +136,10 @@ article {
   background-color: rgb(255, 255, 255);
   /* box-shadow: 0px 0px 46px 18px rgba(0,0,0,0.15); */
   margin: 5%;
-    padding: 5%;
+    padding: 3%;
+    width: 65%;
     z-index: 3;
+    left: 10%;
     position: relative;
   display: flex;
   flex-direction: column;
@@ -139,7 +147,14 @@ article {
 }
 
 article p {
-  max-width: 50%;
+  max-width: 70%;
+}
+
+article a {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px 10px 15px;
 }
 
 
@@ -157,8 +172,8 @@ ul:nth-of-type(1) {
 }
 
 ul:nth-of-type(2) {
-    justify-content: space-between;
-    padding-bottom: 10%;
+  background-color: white;
+  padding: 10% 0 10% 0;
     max-width: 95%;
 }
 
@@ -266,7 +281,12 @@ padding-bottom: 5%;
 
 }
 
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1110px) {
+
+  div ul.background li p {
+    font-size: 1800%;
+    top: -5%;
+  }
 
   ul:nth-of-type(-n+2) li h3 {
     font-size: 250%;
@@ -275,10 +295,49 @@ padding-bottom: 5%;
     font-size: 250%;
   }
 
+
+  @media only screen and (max-width: 850px) {
+
+    div ul.background li p {
+      font-size: 1500%;
+      top: 5%;
+    }
+
+    h1 {
+      font-size: 250%;
+    }
+
+    @media only screen and ( max-width: 700px) {
+
+      div ul.background li p {
+        font-size: 1200%;
+        top: 5%;
+      }
+  
+      h1 {
+        font-size: 250%;
+      }
+    
+
   @media only screen and (max-width: 600px) {
 
     body{
       max-width: 95%;
+    }
+
+    div ul.background  {
+      top: -10%;
+    }
+
+    h1 {
+  font-size: 250%;
+    text-align: left;
+    max-width: 70%;
+}
+
+    div ul.background li p {
+      font-size: 900%;
+      top: 5%;
     }
 
     ul:nth-of-type(-n+2) li h3 {
@@ -290,5 +349,6 @@ padding-bottom: 5%;
 
   }
 
-
+    }
+    }
 }
